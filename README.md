@@ -1,2 +1,0 @@
-# emirhanozfidan
-netflixProje
